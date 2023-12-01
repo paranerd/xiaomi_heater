@@ -1,0 +1,6 @@
+{
+  "name": "Xiaomi Mi Smart Heater Integration",
+  "content_in_root": false,
+  "render_readme": true,
+  "homeassistant": "2023.11.0"
+}

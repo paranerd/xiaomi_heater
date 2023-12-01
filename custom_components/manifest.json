@@ -1,0 +1,13 @@
+{
+  "domain": "xiaomi_miio_heater",
+  "name": "Xiaomi Mi Smart Heater",
+  "codeowners": ["@paranerd"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/paranerd/xiaomi_heater",
+  "homekit": {},
+  "iot_class": "local_polling",
+  "requirements": ["python-miio>=0.5.12"],
+  "ssdp": [],
+  "zeroconf": []
+}

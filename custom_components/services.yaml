@@ -1,0 +1,9 @@
+climate_set_delay_off:
+  description: Set a delay to turn off.
+  fields:
+    entity_id:
+      description: Name of the Xiaomi Mi Smart Heater entity.
+      example: "climate.xiaomi_smart_heater"
+    duration:
+      description: Duration. Valid values depend on the specific model. Please check the manual.
+      example: 12
