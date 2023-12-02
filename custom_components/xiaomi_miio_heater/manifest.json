@@ -9,5 +9,6 @@
   "iot_class": "local_polling",
   "requirements": ["python-miio>=0.5.12"],
   "ssdp": [],
-  "zeroconf": []
+  "zeroconf": [],
+  "version": "1.0.1"
 }
